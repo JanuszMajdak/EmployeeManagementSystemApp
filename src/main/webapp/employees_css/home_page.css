@@ -1,0 +1,25 @@
+.bg-img {
+    /* The image used */
+    background-image: url("/images/home_page.jpg");
+
+    min-height: 380px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+    -moz-box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+    box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+}
+
+footer {
+    width: 100%;
+    padding: 4px 4px;
+    margin: 5px;
+    background-color: #4CAF50;
+    overflow: auto;
+    -webkit-box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+    -moz-box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+    box-shadow: 10px 13px 25px 5px rgba(77,76,77,1);
+}
